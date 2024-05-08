@@ -17,9 +17,14 @@ Workshop Exercises submission details
 ## Algorand workshop Screenshot:
 <img title="algorand execution" alt="execution image" src="resources/algorand.jpg">
 
-## Farcaster sample frame:
+## Farcaster sample frame[Tried to deploy on farcaster via replit and vercel but failed :( 
+https://github.com/pratiksardar/frame-example
 
+## ZKM QUIZ and Use case - submitted online
+[Link to discord message](https://discord.com/channels/1125877344972849232/1234942017591578715/1237281115094519828)
 
-## ZKM QUIZ and Use case
+## Aleo private dapp 
+https://github.com/pratiksardar/leo-buildh3r
 
-## Aleo private dapp
+## Blocknative
+<img title="blocknative integration to dapp" alt="integrated blocknative to local dapp sample" src= "resources/image.png">
